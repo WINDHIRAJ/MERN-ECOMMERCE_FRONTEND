@@ -8,7 +8,7 @@ import env from ''
 
 const AppState = (props) => {
     // const url = "http://localhost:1000/api"
-    const url = "https://mern-e-commerce-api-project-1.onrender.com/api"
+    const url = "https://mern-e-commerce-api-project.onrender.com/api"
 
 
     const [products, setproducts] = useState([])
