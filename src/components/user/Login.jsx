@@ -40,7 +40,7 @@ const Login = () => {
     return (
         <>
             <div className="container my-5 p-5" style={{ width: "600px", border: "2px solid yellow", borderRadius: "10px" }}>
-                <h1 className='text-center'>User Loginr</h1>
+                <h1 className='text-center'>User Login</h1>
 
                 <form className='my-3' onSubmit={submitHandler}>
 
